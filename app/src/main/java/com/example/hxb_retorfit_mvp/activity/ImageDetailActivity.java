@@ -29,7 +29,7 @@ import butterknife.Bind;
 
 /**
  *  @作者 ：贺兴波
- *  @时间 ：2018/6/8 16:49
+ *  @时间 ：2018/6/9
  *  @描述 ：ImageDetailActivity
  */
 public class ImageDetailActivity extends BaseActivity

@@ -8,7 +8,7 @@ import com.example.hxb_retorfit_mvp.utils.AppManager;
 
 /**
  *  @作者 ：贺兴波
- *  @时间 ：2018/6/8 16:55
+ *  @时间 ：2018/6/9
  *  @描述 ：MyApplication
  */
 public class MyApplication extends Application {

@@ -16,7 +16,7 @@ import java.util.List;
 
 /**
  *  @作者 ：贺兴波
- *  @时间 ：2018/6/8 16:54
+ *  @时间 ：2018/6/9
  *  @描述 ：ImageListAdapter
  */
 public class ImageListAdapter extends LoadMoreAdapter<ImageListInfo> {

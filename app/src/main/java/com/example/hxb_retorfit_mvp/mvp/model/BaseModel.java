@@ -2,7 +2,7 @@ package com.example.hxb_retorfit_mvp.mvp.model;
 
 /**
  *  @作者 ：贺兴波
- *  @时间 ：2018/6/8 16:58
+ *  @时间 ：2018/6/9
  *  @描述 ：BaseModel
  */
 public interface BaseModel<T> {

@@ -16,9 +16,10 @@ import java.util.LinkedList;
 import java.util.List;
 
 /**
- * by y on 2016/4/28.
+ *  @作者 ：贺兴波
+ *  @时间 ：2018/6/9
+ *  @描述 ：LoadMoreAdapter
  */
-
 public abstract class LoadMoreAdapter<T> extends RecyclerView.Adapter<ViewHolder> {
 
 

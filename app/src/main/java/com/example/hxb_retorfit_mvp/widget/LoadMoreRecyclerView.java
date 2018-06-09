@@ -9,7 +9,9 @@ import android.support.v7.widget.StaggeredGridLayoutManager;
 import android.util.AttributeSet;
 
 /**
- * by 12406 on 2016/4/30.
+ *  @作者 ：贺兴波
+ *  @时间 ：2018/6/9
+ *  @描述 ：LoadMoreRecyclerView
  */
 public class LoadMoreRecyclerView extends RecyclerView {
 

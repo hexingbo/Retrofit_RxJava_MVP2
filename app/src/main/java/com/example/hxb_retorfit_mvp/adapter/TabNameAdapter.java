@@ -13,7 +13,7 @@ import java.util.List;
 
 /**
  *  @作者 ：贺兴波
- *  @时间 ：2018/6/8 16:54
+ *  @时间 ：2018/6/9
  *  @描述 ：TabNameAdapter
  */
 public class TabNameAdapter extends BaseFragmentPagerAdapter<TabNameInfo> {

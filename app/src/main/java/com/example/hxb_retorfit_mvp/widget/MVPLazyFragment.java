@@ -13,9 +13,10 @@ import com.example.hxb_retorfit_mvp.utils.RxUtils;
 import butterknife.ButterKnife;
 
 /**
- * by y on 2017/3/9.
+ *  @作者 ：贺兴波
+ *  @时间 ：2018/6/9
+ *  @描述 ：MVPLazyFragment
  */
-
 public abstract class MVPLazyFragment extends Fragment {
     protected static final String FRAGMENT_INDEX = "fragment_index";
     protected boolean isLoad;

@@ -26,7 +26,7 @@ import butterknife.Bind;
 
 /**
  *  @作者 ：贺兴波
- *  @时间 ：2018/6/8 16:56
+ *  @时间 ：2018/6/9
  *  @描述 ：ImageMainFragment
  */
 public class ImageMainFragment extends MVPLazyFragment

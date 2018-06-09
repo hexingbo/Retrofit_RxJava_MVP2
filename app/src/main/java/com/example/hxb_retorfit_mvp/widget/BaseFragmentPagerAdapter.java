@@ -7,9 +7,10 @@ import android.support.v4.app.FragmentPagerAdapter;
 import java.util.List;
 
 /**
- * by y on 2016/5/27.
+ *  @作者 ：贺兴波
+ *  @时间 ：2018/6/9
+ *  @描述 ：BaseFragmentPagerAdapter
  */
-
 public abstract class BaseFragmentPagerAdapter<T> extends FragmentPagerAdapter {
 
     private List<T> mData;

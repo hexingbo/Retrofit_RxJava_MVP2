@@ -20,9 +20,10 @@ import android.widget.SeekBar;
 import android.widget.TextView;
 
 /**
- * by y on 2017/3/9.
+ *  @作者 ：贺兴波
+ *  @时间 ：2018/6/9
+ *  @描述 ：ViewHolder
  */
-
 public class ViewHolder extends RecyclerView.ViewHolder {
 
     public ViewHolder(View itemView) {

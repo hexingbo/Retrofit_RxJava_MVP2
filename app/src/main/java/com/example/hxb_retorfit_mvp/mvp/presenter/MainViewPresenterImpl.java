@@ -6,7 +6,7 @@ import com.example.hxb_retorfit_mvp.mvp.view.BaseView;
 
 /**
  *  @作者 ：贺兴波
- *  @时间 ：2018/6/8 17:00
+ *  @时间 ：2018/6/9
  *  @描述 ：MainViewPresenterImpl
  */
 public class MainViewPresenterImpl extends BasePresenterImpl<BaseView.MainView>

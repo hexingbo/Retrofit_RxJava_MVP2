@@ -17,7 +17,7 @@ import java.util.List;
 
 /**
  *  @作者 ：贺兴波
- *  @时间 ：2018/6/8 16:58
+ *  @时间 ：2018/6/9
  *  @描述 ：ImageNewPresenterImpl
  */
 public class ImageNewPresenterImpl extends BasePresenterImpl<BaseView.ImageNewView>

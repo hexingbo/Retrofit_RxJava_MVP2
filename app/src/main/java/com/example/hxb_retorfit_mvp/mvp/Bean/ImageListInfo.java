@@ -2,7 +2,7 @@ package com.example.hxb_retorfit_mvp.mvp.Bean;
 
 /**
  *  @作者 ：贺兴波
- *  @时间 ：2018/6/8 16:56
+ *  @时间 ：2018/6/9
  *  @描述 ：ImageListInfo
  */
 public class ImageListInfo {

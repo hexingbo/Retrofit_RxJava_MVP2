@@ -7,7 +7,7 @@ import com.example.hxb_retorfit_mvp.network.NetWorkSubscriber;
 
 /**
  *  @作者 ：贺兴波
- *  @时间 ：2018/6/8 16:58
+ *  @时间 ：2018/6/9
  *  @描述 ：ImageNewModelImpl
  */
 public class ImageNewModelImpl implements BaseModel.ImageNewModel {

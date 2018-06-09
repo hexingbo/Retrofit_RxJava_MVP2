@@ -12,7 +12,7 @@ import java.util.List;
 
 /**
  *  @作者 ：贺兴波
- *  @时间 ：2018/6/8 17:00
+ *  @时间 ：2018/6/9
  *  @描述 ：ImageListPresenterImpl
  */
 public class ImageListPresenterImpl extends BasePresenterImpl<BaseView.ImageListView>

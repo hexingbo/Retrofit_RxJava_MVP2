@@ -7,9 +7,9 @@ import com.example.hxb_retorfit_mvp.widget.ViewHolder;
 import java.util.List;
 
 /**
- * @作者 ：贺兴波
- * @时间 ：2018/6/8 16:48
- * @描述 ：AboutAdapter
+ *  @作者 ：贺兴波
+ *  @时间 ：2018/6/9
+ *  @描述 ：AboutAdapter
  */
 public class AboutAdapter extends LoadMoreAdapter<String> {
 

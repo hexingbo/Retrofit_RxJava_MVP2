@@ -10,9 +10,10 @@ import com.example.hxb_retorfit_mvp.utils.RxUtils;
 import butterknife.ButterKnife;
 
 /**
- * Created by 贺兴波 on 2018/6/8.
+ *  @作者 ：贺兴波
+ *  @时间 ：2018/6/9
+ *  @描述 ：BaseActivity
  */
-
 public  abstract class BaseActivity extends AppCompatActivity {
 
 

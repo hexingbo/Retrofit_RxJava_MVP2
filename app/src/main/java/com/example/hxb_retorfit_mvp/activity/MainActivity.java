@@ -27,11 +27,10 @@ import butterknife.Bind;
 
 /**
  *  @作者 ：贺兴波
- *  @时间 ：2018/6/8 16:50
+ *  @时间 ：2018/6/9
  *  @描述 ：MainActivity
  */
 public class MainActivity extends BaseActivity implements BaseView.MainView, NavigationView.OnNavigationItemSelectedListener {
-
 
     @Bind(R.id.toolBar)
     Toolbar toolBar;

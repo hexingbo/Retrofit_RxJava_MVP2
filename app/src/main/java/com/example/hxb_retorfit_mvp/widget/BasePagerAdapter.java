@@ -7,9 +7,10 @@ import android.view.ViewGroup;
 import java.util.List;
 
 /**
- * by y on 2016/5/27.
+ *  @作者 ：贺兴波
+ *  @时间 ：2018/6/9
+ *  @描述 ：BasePagerAdapter
  */
-
 public abstract class BasePagerAdapter<T> extends PagerAdapter {
 
     private List<T> data;

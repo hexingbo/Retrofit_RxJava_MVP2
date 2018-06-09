@@ -28,7 +28,7 @@ import butterknife.Bind;
 
 /**
  *  @作者 ：贺兴波
- *  @时间 ：2018/6/8 16:50
+ *  @时间 ：2018/6/9
  *  @描述 ：NewsDetailActivity
  */
 public class NewsDetailActivity extends BaseActivity
