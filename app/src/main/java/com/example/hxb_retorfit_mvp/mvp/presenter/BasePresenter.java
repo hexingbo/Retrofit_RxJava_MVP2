@@ -39,7 +39,6 @@ public interface BasePresenter {
         void switchId(int id);
     }
 
-
     interface NewsListPresenter {
         void requestNetWork(int id, int page);
 

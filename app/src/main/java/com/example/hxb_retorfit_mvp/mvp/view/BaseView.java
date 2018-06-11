@@ -71,13 +71,28 @@ public interface BaseView<T> {
     interface TabNewsView extends BaseView<TabNewsInfo> {
     }
 
+    /**
+     * Menu菜单
+     */
     interface MainView {
+        /**
+         * 新闻列表
+         */
         void switchNews();
 
+        /**
+         * 图片分类
+         */
         void switchImageClassification();
 
+        /**
+         * 最新图片
+         */
         void switchNewImage();
 
+        /**
+         * 菜单说明
+         */
         void switchAbout();
     }
 
